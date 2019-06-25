@@ -50,10 +50,6 @@ title: Шаблон отчета по ГОСТ 7.32-2017
 Разработа производится на
 [github.com](https://github.com/konstantin-morenko/report-732-2017)
 
-Чтобы скачать файл, перейдите по ссылке [Самый последний официальный
-выпуск](https://github.com/konstantin-morenko/report-732-2017/releases/latest)
-и нажмите на *Source code (zip)*
-
-![Download button](download-release.png)
+[Последняя версия v1.0.3](https://github.com/konstantin-morenko/report-732-2017/archive/v1.0.3.zip)
 
 [Все выпуски и все версии](https://github.com/konstantin-morenko/report-732-2017/releases)
