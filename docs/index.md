@@ -38,12 +38,13 @@ title: Шаблон отчета по ГОСТ 7.32-2017
 Полное описание возможностей шаблона и работы с ним приведено прямо в
 основном файле.
 
+# Разработка проекта
+
+Автор: [Константин Моренко](konstantin-morenko.ru)
+
 # Обратная связь
 
-Предложения, пожелания и сообщения об ошибках можно отправлять в
-[форме обратной связи](https://forms.yandex.ru/u/5d03bf6219621d0da3869577/)
-
-Автор проекта: [Константин Моренко](konstantin-morenko.ru)
+<script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script><iframe src="https://forms.yandex.ru/u/5d03bf6219621d0da3869577/?iframe=1" frameborder="0" name="ya-form-5d03bf6219621d0da3869577" width="650"></iframe>
 
 # Файлы
 
