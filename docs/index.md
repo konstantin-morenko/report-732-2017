@@ -46,11 +46,17 @@ title: Шаблон отчета по ГОСТ 7.32-2017
 
 <script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script><iframe src="https://forms.yandex.ru/u/5d03bf6219621d0da3869577/?iframe=1" frameborder="0" name="ya-form-5d03bf6219621d0da3869577" width="650"></iframe>
 
+# Пожертвование на развитие проекта
+
+Оплату принимает система ЮМани.
+
+<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20report-732-2017&default-sum=100&button-text=14&payment-type-choice=on&mobile-payment-type-choice=on&successURL=&quickpay=shop&account=41001822498476&" width="423" height="254" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+(Форма может не отображаться если у вас включен блокировщик рекламы)
+
 # Файлы
 
 Разработа производится на
 [github.com](https://github.com/konstantin-morenko/report-732-2017)
-
-[Последняя версия v1.0.3](https://github.com/konstantin-morenko/report-732-2017/archive/v1.0.3.zip)
 
 [Все выпуски и все версии](https://github.com/konstantin-morenko/report-732-2017/releases)
